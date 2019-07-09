@@ -56,8 +56,8 @@ function SensiboPodAccessory(platform, device) {
 
 	// HomeKit does really strange things since we have to wait on the data to get populated
 	// This is just intro information. It will be corrected in a couple of seconds.
-	that.state.targetTemperature = 25; // float
-	that.state.temperatureUnit = "C"; // "C" or "F"
+	that.state.targetTemperature = 76; // float
+	that.state.temperatureUnit = "F"; // "C" or "F"
 	that.state.on = false; // true or false
 	that.state.targetAcState = undefined; // true or false for targetState (used for AI)
 	that.state.mode = "cool"; // "heat", "cool", "fan" or "off"
