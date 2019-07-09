@@ -4,7 +4,7 @@
   "version": "0.4.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wailuen/homebridge-sensibo-sky.git"
+    "url": "git://github.com/mikeymo39/homebridge-sensibo-sky.git"
   },
   "license": "ISC",
   "preferGlobal": true,
